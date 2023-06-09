@@ -41,5 +41,7 @@ Number of Groups (N): non zero integer
 ## Returns
 
 Array of N arrays of equal size.
+
 Final array may have fewer elements - it is not padded.
+
 Throws on invalid input.
